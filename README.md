@@ -1,4 +1,4 @@
-# Udemy_Advanced_Scala_and_Functional_Programming_Rock_the_JVM
+# Udemy Advanced Scala and Functional Programming Rock the JVM
 
 1. Recap: the Scala basics.
 
