@@ -64,7 +64,17 @@
 
 29. Type Classes, Part 2.
 
-30. 
+30. Pimp My Library!.
+
+31. Type Classes, Part 3.
+
+32. A Type Class End-to-End example: JSON Serialization.
+
+33. A Type Class Use Case: The Magnet Pattern.
+
+34. Scala 3: Given Instances and Using Clauses.
+
+35. Scala 3: Extension Methods.
 
 ## Mastering the Type System
 
