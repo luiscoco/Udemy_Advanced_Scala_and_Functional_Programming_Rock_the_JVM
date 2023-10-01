@@ -12,15 +12,15 @@
 
 
 
-## 
-
-
 ## Functional Concurrent Programming
 
 
 
 ## Implicits
 
+
+
+## Mastering the Type System
 
 
 
