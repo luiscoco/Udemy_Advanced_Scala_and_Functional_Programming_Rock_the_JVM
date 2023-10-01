@@ -78,6 +78,21 @@
 
 ## Mastering the Type System
 
+36. Advanced Inheritance.
+
+37. Variance.
+
+38. Variance: exercises.
+
+39. Type Members.
+
+40. Inner Types and Path-Dependent Types.
+
+41. Self Types.
+
+42. Recursive Types and F-Bounded Polymorphism.
+
+43. Higher-Kinded Types.
 
 
 
