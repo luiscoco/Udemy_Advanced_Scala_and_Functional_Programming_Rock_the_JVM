@@ -1,98 +1,98 @@
 # Udemy Advanced Scala and Functional Programming Rock the JVM
 
-1. Recap: the Scala basics.
+## 1. Recap: the Scala basics.
 
-2. Dark Syntax sugar.
+## 2. Dark Syntax sugar.
 
-3. Advanced Pattern Matching.
+## 3. Advanced Pattern Matching.
 
-4. Advanced Pattern Matching, Part 2.
+## 4. Advanced Pattern Matching, Part 2.
 
-## Advanced Functional Programming
+# Advanced Functional Programming
 
-5. Partial Functions.
+## 5. Partial Functions.
 
-6. Functional Collections: a functional Set.
+## 6. Functional Collections: a functional Set.
 
-7. Enhancing a functional Set.
+## 7. Enhancing a functional Set.
 
-8. A Functional Set, level 9000: a Potentially Infinite Set.
+## 8. A Functional Set, level 9000: a Potentially Infinite Set.
 
-9. Moar Functional Collections.
+## 9. Moar Functional Collections.
 
-10. Currying and Partially Applied.
+## 10. Currying and Partially Applied.
 
-11. Lazy Evaluation.
+## 11. Lazy Evaluation.
 
-12. Lazy Evaluation: exercise (a potentially infinite stream)
+## 12. Lazy Evaluation: exercise (a potentially infinite stream)
 
-13. Infinite Streams proficiency: exercise
+## 13. Infinite Streams proficiency: exercise
 
-14. Monads.
+## 14. Monads.
 
-15. Monads: exercises.
+## 15. Monads: exercises.
 
-## Functional Concurrent Programming
+# Functional Concurrent Programming
 
-16. Intro to Parallel Programming on the JVM.
+## 16. Intro to Parallel Programming on the JVM.
 
-17. Concurrency problems on the JVM.
+## 17. Concurrency problems on the JVM.
 
-18. JVM Thread Communication.
+## 18. JVM Thread Communication.
 
-19. Producer-Consumer, Level 2.
+## 19. Producer-Consumer, Level 2.
 
-20. Producer-Consumer, Level 3+, exercises.
+## 20. Producer-Consumer, Level 3+, exercises.
 
-21. JVM Thread Communication. Exercises.
+## 21. JVM Thread Communication. Exercises.
    
-22. Futures and Promises.
+## 22. Futures and Promises.
 
-23. Futures, Part 2.
+## 23. Futures, Part 2.
 
-24. Futures, Part 3.
+## 24. Futures, Part 3.
 
-25. Futures, Part 4 + Exercises.
+## 25. Futures, Part 4 + Exercises.
 
-## Implicits
+# Implicits
 
-26. Enter Implicits.
+## 26. Enter Implicits.
 
-27. Organizing Implicits.
+## 27. Organizing Implicits.
 
-28. Type Classes, Part 1.
+## 28. Type Classes, Part 1.
 
-29. Type Classes, Part 2.
+## 29. Type Classes, Part 2.
 
-30. Pimp My Library!.
+## 30. Pimp My Library!.
 
-31. Type Classes, Part 3.
+## 31. Type Classes, Part 3.
 
-32. A Type Class End-to-End example: JSON Serialization.
+## 32. A Type Class End-to-End example: JSON Serialization.
 
-33. A Type Class Use Case: The Magnet Pattern.
+## 33. A Type Class Use Case: The Magnet Pattern.
 
-34. Scala 3: Given Instances and Using Clauses.
+## 34. Scala 3: Given Instances and Using Clauses.
 
-35. Scala 3: Extension Methods.
+## 35. Scala 3: Extension Methods.
 
-## Mastering the Type System
+# Mastering the Type System
 
-36. Advanced Inheritance.
+## 36. Advanced Inheritance.
 
-37. Variance.
+## 37. Variance.
 
-38. Variance: exercises.
+## 38. Variance: exercises.
 
-39. Type Members.
+## 39. Type Members.
 
-40. Inner Types and Path-Dependent Types.
+## 40. Inner Types and Path-Dependent Types.
 
-41. Self Types.
+## 41. Self Types.
 
-42. Recursive Types and F-Bounded Polymorphism.
+## 42. Recursive Types and F-Bounded Polymorphism.
 
-43. Higher-Kinded Types.
+## 43. Higher-Kinded Types.
 
 
 
