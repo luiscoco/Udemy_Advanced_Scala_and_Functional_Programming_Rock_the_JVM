@@ -1,5 +1,7 @@
 # Udemy Advanced Scala and Functional Programming Rock the JVM
 
+https://github.com/rockthejvm/scala-3-advanced
+
 ## 1. Recap: the Scala basics.
 
 ## 2. Dark Syntax sugar.
